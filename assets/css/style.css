@@ -1,0 +1,52 @@
+body{
+    color: #212529;
+    font-family: 'Roboto', sans-serif;
+}
+.card-title{
+    color: #212529;
+    font-weight: 300;
+    font-size: 20px;
+}
+.card-text, h5{
+    color: #707070;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.sub-text{
+    font-size:13px;
+}
+del{
+    color: red;
+}
+
+.text-success{
+    font-size: 20px;
+    font-weight: 500;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-weight: 500;
+    font-size: 21px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+}
+
+.color-form{
+    background-color: #28A745;
+    
+}
+
+.card img{
+    height: 200px;
+    width: auto;
+    object-fit: fill;
+    object-position: center;
+}
+
+.navbar-brand > img, footer > img{
+    height: 25px;
+    width: 86px;
+
+}
